@@ -1,0 +1,3 @@
+blur_jpg_prob0.5 model testing on...
+testset,accuracy,avg precision
+progan,0.991,0.9994924073635627
